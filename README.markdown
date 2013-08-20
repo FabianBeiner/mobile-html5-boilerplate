@@ -1,5 +1,7 @@
-#Mobile Boilerplate http://html5boilerplate.com
+#[UNMAINTAINED] Mobile Boilerplate http://html5boilerplate.com
 v1.1
+
+**This repository is unmaintained. Please go to [h5bp/mobile-boilerplate](https://github.com/h5bp/mobile-boilerplate) for the latest version.**
 
 ##Summary:
 
